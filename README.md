@@ -1,2 +1,3 @@
 # 119_files
-119宿舍共同编辑的存储库，用来分享和学习。
+119
+git config --list --show-origin
